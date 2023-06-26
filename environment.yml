@@ -314,5 +314,4 @@ dependencies:
   - zstd=1.4.5=h04227a9_0
   - pip:
     - ffmpeg-python==0.2.0
-    - opensim==3.3
 prefix: C:\Users\caill\anaconda3
