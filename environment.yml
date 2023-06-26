@@ -1,4 +1,4 @@
-name: base
+name: MN_driven_model
 channels:
   - defaults
 dependencies:
