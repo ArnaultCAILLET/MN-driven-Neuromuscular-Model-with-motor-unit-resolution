@@ -14,7 +14,8 @@ The code is associated with the following publication:
 
 # Instructions
 
-1. Set up an environment
-2. To run the MN-driven model, run 'MN-driven_model.py'
-3. To plot and display the results obtained with the five experimental datasets, already stored in the Results folder, 
+1. Set up an environment using the provided 'environment.yml' file. To set up this environment, execute 'conda env create -f environment.yml' in your Anaconda Prompt, or visit the [conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file ) for more detailed information.
+2. activate the environment excuting 'conda activate _\<the name you chose for your environment\>_'.
+3. To run the MN-driven model, run 'MN-driven_model.py'
+4. To plot and display the results obtained with the five experimental datasets, already stored in the Results folder, 
 run 'Display_results.py'
