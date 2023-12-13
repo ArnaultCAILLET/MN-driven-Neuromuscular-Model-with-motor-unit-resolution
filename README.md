@@ -9,7 +9,7 @@ The code is associated with the following publication:
   author={Caillet, Arnault and Phillips, Andrew TM and Farina, Dario and Modenese, Luca},
   journal={PLOS Computational Biology},
   year={2023}
-  doi: https://doi.org/10.1371/journal.pcbi.1011606
+  doi: {https://doi.org/10.1371/journal.pcbi.1011606}
 }
 ```
 
