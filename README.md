@@ -7,8 +7,9 @@ The code is associated with the following publication:
 @article{caillet2023MN-drivenModelling,
   title={Motoneuron-driven computational muscle modelling with motor unit resolution and subject-specific musculoskeletal anatomy},
   author={Caillet, Arnault and Phillips, Andrew TM and Farina, Dario and Modenese, Luca},
-  journal={XXX},
+  journal={PLOS Computational Biology},
   year={2023}
+  doi: https://doi.org/10.1371/journal.pcbi.1011606
 }
 ```
 
